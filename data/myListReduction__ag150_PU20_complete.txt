@@ -1,0 +1,14 @@
+dcap://cmsrm-se01.roma1.infn.it/pnfs/roma1.infn.it/data/cms/store/user/crovelli/ProdUpgrade2014/GJet_Pt40_UpgradePhase1Age0START_DR61SLHCx_PU20bx25/output_10_3_njA.root
+dcap://cmsrm-se01.roma1.infn.it/pnfs/roma1.infn.it/data/cms/store/user/crovelli/ProdUpgrade2014/GJet_Pt40_UpgradePhase1Age0START_DR61SLHCx_PU20bx25/output_11_2_gnD.root
+dcap://cmsrm-se01.roma1.infn.it/pnfs/roma1.infn.it/data/cms/store/user/crovelli/ProdUpgrade2014/GJet_Pt40_UpgradePhase1Age0START_DR61SLHCx_PU20bx25/output_12_1_POR.root
+dcap://cmsrm-se01.roma1.infn.it/pnfs/roma1.infn.it/data/cms/store/user/crovelli/ProdUpgrade2014/GJet_Pt40_UpgradePhase1Age0START_DR61SLHCx_PU20bx25/output_13_1_bi3.root
+dcap://cmsrm-se01.roma1.infn.it/pnfs/roma1.infn.it/data/cms/store/user/crovelli/ProdUpgrade2014/GJet_Pt40_UpgradePhase1Age0START_DR61SLHCx_PU20bx25/output_14_1_Bdj.root
+dcap://cmsrm-se01.roma1.infn.it/pnfs/roma1.infn.it/data/cms/store/user/crovelli/ProdUpgrade2014/GJet_Pt40_UpgradePhase1Age0START_DR61SLHCx_PU20bx25/output_1_4_1YH.root
+dcap://cmsrm-se01.roma1.infn.it/pnfs/roma1.infn.it/data/cms/store/user/crovelli/ProdUpgrade2014/GJet_Pt40_UpgradePhase1Age0START_DR61SLHCx_PU20bx25/output_2_1_Dgn.root
+dcap://cmsrm-se01.roma1.infn.it/pnfs/roma1.infn.it/data/cms/store/user/crovelli/ProdUpgrade2014/GJet_Pt40_UpgradePhase1Age0START_DR61SLHCx_PU20bx25/output_3_3_2O0.root
+dcap://cmsrm-se01.roma1.infn.it/pnfs/roma1.infn.it/data/cms/store/user/crovelli/ProdUpgrade2014/GJet_Pt40_UpgradePhase1Age0START_DR61SLHCx_PU20bx25/output_4_4_S5q.root
+dcap://cmsrm-se01.roma1.infn.it/pnfs/roma1.infn.it/data/cms/store/user/crovelli/ProdUpgrade2014/GJet_Pt40_UpgradePhase1Age0START_DR61SLHCx_PU20bx25/output_5_2_els.root
+dcap://cmsrm-se01.roma1.infn.it/pnfs/roma1.infn.it/data/cms/store/user/crovelli/ProdUpgrade2014/GJet_Pt40_UpgradePhase1Age0START_DR61SLHCx_PU20bx25/output_6_2_Oxh.root
+dcap://cmsrm-se01.roma1.infn.it/pnfs/roma1.infn.it/data/cms/store/user/crovelli/ProdUpgrade2014/GJet_Pt40_UpgradePhase1Age0START_DR61SLHCx_PU20bx25/output_7_2_ykn.root
+dcap://cmsrm-se01.roma1.infn.it/pnfs/roma1.infn.it/data/cms/store/user/crovelli/ProdUpgrade2014/GJet_Pt40_UpgradePhase1Age0START_DR61SLHCx_PU20bx25/output_8_3_odu.root
+dcap://cmsrm-se01.roma1.infn.it/pnfs/roma1.infn.it/data/cms/store/user/crovelli/ProdUpgrade2014/GJet_Pt40_UpgradePhase1Age0START_DR61SLHCx_PU20bx25/output_9_3_IKB.root

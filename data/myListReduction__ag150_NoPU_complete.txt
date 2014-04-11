@@ -1,0 +1,12 @@
+dcap://cmsrm-se01.roma1.infn.it/pnfs/roma1.infn.it/data/cms/store/user/crovelli/ProdUpgrade2014/GJet_Pt40_UpgradePhase1Age0START_DR61SLHCx_NoPileUp/output_10_1_riM.root
+dcap://cmsrm-se01.roma1.infn.it/pnfs/roma1.infn.it/data/cms/store/user/crovelli/ProdUpgrade2014/GJet_Pt40_UpgradePhase1Age0START_DR61SLHCx_NoPileUp/output_11_1_HDS.root
+dcap://cmsrm-se01.roma1.infn.it/pnfs/roma1.infn.it/data/cms/store/user/crovelli/ProdUpgrade2014/GJet_Pt40_UpgradePhase1Age0START_DR61SLHCx_NoPileUp/output_12_1_zI2.root
+dcap://cmsrm-se01.roma1.infn.it/pnfs/roma1.infn.it/data/cms/store/user/crovelli/ProdUpgrade2014/GJet_Pt40_UpgradePhase1Age0START_DR61SLHCx_NoPileUp/output_1_1_rF7.root
+dcap://cmsrm-se01.roma1.infn.it/pnfs/roma1.infn.it/data/cms/store/user/crovelli/ProdUpgrade2014/GJet_Pt40_UpgradePhase1Age0START_DR61SLHCx_NoPileUp/output_2_1_Vll.root
+dcap://cmsrm-se01.roma1.infn.it/pnfs/roma1.infn.it/data/cms/store/user/crovelli/ProdUpgrade2014/GJet_Pt40_UpgradePhase1Age0START_DR61SLHCx_NoPileUp/output_3_1_CkH.root
+dcap://cmsrm-se01.roma1.infn.it/pnfs/roma1.infn.it/data/cms/store/user/crovelli/ProdUpgrade2014/GJet_Pt40_UpgradePhase1Age0START_DR61SLHCx_NoPileUp/output_4_1_LPR.root
+dcap://cmsrm-se01.roma1.infn.it/pnfs/roma1.infn.it/data/cms/store/user/crovelli/ProdUpgrade2014/GJet_Pt40_UpgradePhase1Age0START_DR61SLHCx_NoPileUp/output_5_1_kqC.root
+dcap://cmsrm-se01.roma1.infn.it/pnfs/roma1.infn.it/data/cms/store/user/crovelli/ProdUpgrade2014/GJet_Pt40_UpgradePhase1Age0START_DR61SLHCx_NoPileUp/output_6_1_txw.root
+dcap://cmsrm-se01.roma1.infn.it/pnfs/roma1.infn.it/data/cms/store/user/crovelli/ProdUpgrade2014/GJet_Pt40_UpgradePhase1Age0START_DR61SLHCx_NoPileUp/output_7_1_zZl.root
+dcap://cmsrm-se01.roma1.infn.it/pnfs/roma1.infn.it/data/cms/store/user/crovelli/ProdUpgrade2014/GJet_Pt40_UpgradePhase1Age0START_DR61SLHCx_NoPileUp/output_8_1_2jO.root
+dcap://cmsrm-se01.roma1.infn.it/pnfs/roma1.infn.it/data/cms/store/user/crovelli/ProdUpgrade2014/GJet_Pt40_UpgradePhase1Age0START_DR61SLHCx_NoPileUp/output_9_1_Sjx.root
